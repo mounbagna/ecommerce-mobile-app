@@ -8,6 +8,8 @@ database:mongoDB
 
 Note:This is a 6th semester project of Mobile Application Development Course
 
+-The code of the admin login is incomplete
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
