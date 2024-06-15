@@ -1,7 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project.
+
 frontend:react-native
+
 backend:node js and express js
+
 database:mongoDB
+
 Note:This is a 6th semester project of Mobile Application Development Course
 
 # Getting Started
